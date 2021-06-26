@@ -1,5 +1,5 @@
-### Hi there 👋, My name is Raunak Bag
-#### I am Front-end Developer from India
+### Hi there 👋, My name is Raunak Bag.
+#### I am Front-end Developer from India.
 
 Skills: REACT / JS / HTML / CSS
 
