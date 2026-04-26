@@ -1,65 +1,66 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
+  <img width="100%" height="250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/RaunakBag.https://github.com/RaunakBag)
-
+<h1 align="center">Hello World 👋 I'm Raunak Bag</h1>
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=RaunakBag.RaunakBag" alt="visitors" />
 </p>
-<div size='20px'> Hi! My name is Raunak Bag. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
 
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+<p align="center">
+  A passionate Full Stack Developer from India who loves building impactful solutions with code.
+</p>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+---
 
+### 🧠 Currently Learning:
+- Advanced DSA concepts  
+- Cloud technologies like AWS  
+- Exploring Microservices & System Design  
 
-- 🔭 I’m currently working on Github projects, blogs etc...
+### 🛠️ Tech Stack:
+| Frontend | Backend | Tools & Platforms |
+|----------|---------|-------------------|
+| HTML/CSS | Node.js | Git & GitHub      |
+| JavaScript | Java + Spring Boot | Firebase         |
+| ReactJS | MySQL | Grafana            |
+| AngularJS | Kafka | Netlify           |
 
-- 🌱 I’m currently learning  AWS, Data Structures, etc... 
+---
 
-- 👯 I’m looking to collaborate on projects, tech articles... 
+### 🔥 Highlights
 
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source... 
+- ✅ Built multiple full-stack web applications using MERN stack  
+- 📚 Active blogger sharing insights on development, freelancing, and open source  
+- 👨‍💻 Always open to collaboration – feel free to reach out!
 
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/https://github.com/RaunakBag?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/https://github.com/RaunakBag?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/https://github.com/RaunakBag?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/https://github.com/RaunakBag?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/https://github.com/RaunakBag?tab=repositories&q=&type=&language=angularjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'> </a>
-<a href= https://github.com/https://github.com/RaunakBag?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/https://github.com/RaunakBag?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/https://github.com/RaunakBag?tab=repositories&q=&type=&language=spring&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>
-<a href= https://github.com/https://github.com/RaunakBag?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/https://github.com/RaunakBag?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
-<a href= https://github.com/https://github.com/RaunakBag?tab=repositories&q=&type=&language=grafana&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/grafana.svg'> </a>
-<a href= https://github.com/https://github.com/RaunakBag?tab=repositories&q=&type=&language=kafka&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kafka.svg'> </a>
+---
 
+### 🌐 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raunakbag/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=netlify&logoColor=white)](https://raunakbag.netlify.app/)
+[![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=github&logoColor=white)](https://github.com/RaunakBag)
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
-<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/raunakbag/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://raunakbag.netlify.app/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/https://github.com/RaunakBag'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+---
 
-
-<h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
+### 📈 Weekly Coding Stats (via Wakatime)
+<a href="https://wakatime.com/@RaunakBag">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RaunakBag&layout=compact" />
 </a>
-<br>
 
+---
 
-<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
+### 🎯 GitHub Stats
 
-![Metrics](https://metrics.lecoq.io/https://github.com/RaunakBag?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/RaunakBag?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia/Kolkata)
 
-<h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
+---
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)
+### 😂 Dev Joke of the Day
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
+---
 
-<br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+<footer align="center">
+  Made with ❤️ using <a href="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator">GitHub Profile Readme Generator</a>
+</footer>
