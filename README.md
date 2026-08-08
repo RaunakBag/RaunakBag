@@ -1,66 +1,190 @@
-<div align="center">
-  <img width="100%" height="250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
-</div>
+# 👋 Hi, I'm Raunak Bag
 
-<h1 align="center">Hello World 👋 I'm Raunak Bag</h1>
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=RaunakBag.RaunakBag" alt="visitors" />
+### ☕ Spring Boot Developer | Java | Microservices | Kafka | Cloud
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=RaunakBag&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
+> **Building reliable backend systems, one service at a time.**
+
+I'm a **Spring Boot Developer with 5 years of experience** focused on building scalable, high-performance backend systems and RESTful APIs.
+
+My core expertise includes **Java, Spring Boot, Microservices, Kafka, Cloud, Docker, Kubernetes, CI/CD, and API development**. I enjoy solving complex production problems, modernizing legacy applications, and building systems that are scalable, maintainable, and production-ready.
+
+---
+
+## 🚀 What I Do
+
+```text
+Java + Spring Boot
+        │
+        ├── Microservices
+        ├── REST APIs
+        ├── Kafka / Event-Driven Architecture
+        ├── Multi-Region Applications
+        │
+        ▼
+Docker + Kubernetes
+        │
+        ▼
+AWS / Azure / GCP / OCI
+        │
+        ▼
+Scalable & Reliable Production Systems
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+
+**Java • Spring Boot • Microservices • REST APIs • Kafka • Node.js**
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+
+**AWS • Azure • GCP • OCI • Docker • Kubernetes • AKS • OCP • CI/CD**
+
+### 🗄️ Database & Development
+
+**SQL • PL/SQL • MongoDB • JavaScript • TypeScript • React • Angular**
+
+### 📊 Monitoring
+
+**Grafana • Application Logging • Monitoring • Performance Tuning**
+
+---
+
+## 💼 Professional Experience
+
+### 🔹 Spring Boot Microservices
+
+* Developed and refactored **Spring Boot microservices** for scalable enterprise applications.
+* Implemented **multi-region configurations** including timezone, currency, and API endpoints.
+* Worked on **Spring Boot 2.x → Spring Boot 3** migration and modernization.
+* Upgraded deprecated APIs and modernized application dependencies.
+* Diagnosed and resolved **production issues** to improve application reliability.
+
+### 🔹 Event-Driven Architecture
+
+* Worked with **Apache Kafka** for event-driven microservices.
+* Optimized Kafka message processing to improve throughput and reduce latency.
+* Worked on reliable communication between distributed services.
+
+### 🔹 Cloud & Containerization
+
+* Migrated applications from **on-premise environments to Azure**.
+* Worked with **Azure Red Hat OpenShift (ARO) and OCP**.
+* Containerized applications using **Docker**.
+* Deployed and managed applications using **Kubernetes**.
+* Automated deployments using **CI/CD pipelines**.
+
+### 🔹 Backend Engineering
+
+* Designed RESTful APIs and backend services.
+* Built custom scheduler services for configurable batch processing.
+* Integrated external APIs for location mapping and mileage calculations.
+* Worked on application performance optimization and troubleshooting.
+
+---
+
+## 🧠 Engineering Approach
+
+```java
+public void buildBetterSoftware() {
+
+    while (true) {
+
+        learn();
+        design();
+        build();
+        test();
+        monitor();
+        improve();
+    }
+}
+```
+
+I believe good backend engineering is not just about writing code.
+
+It's about building systems that are:
+
+**Scalable • Maintainable • Secure • Observable • Reliable**
+
+---
+
+## 🏆 Certifications
+
+* ☁️ **Oracle Cloud Infrastructure 2023 Certified Architect Associate**
+* ☁️ **Microsoft Certified: Azure Fundamentals**
+* 🤖 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
+* 🧑‍💻 **Claude Code Hackathon**
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  A passionate Full Stack Developer from India who loves building impactful solutions with code.
+  <img src="https://github-readme-stats.vercel.app/api?username=RaunakBag&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakBag&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-### 🧠 Currently Learning:
-- Advanced DSA concepts  
-- Cloud technologies like AWS  
-- Exploring Microservices & System Design  
+## 🐍 Contribution Graph
 
-### 🛠️ Tech Stack:
-| Frontend | Backend | Tools & Platforms |
-|----------|---------|-------------------|
-| HTML/CSS | Node.js | Git & GitHub      |
-| JavaScript | Java + Spring Boot | Firebase         |
-| ReactJS | MySQL | Grafana            |
-| AngularJS | Kafka | Netlify           |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RaunakBag/RaunakBag/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
 
 ---
 
-### 🔥 Highlights
+## 🌱 Currently
 
-- ✅ Built multiple full-stack web applications using MERN stack  
-- 📚 Active blogger sharing insights on development, freelancing, and open source  
-- 👨‍💻 Always open to collaboration – feel free to reach out!
-
----
-
-### 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raunakbag/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=netlify&logoColor=white)](https://raunakbag.netlify.app/)
-[![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=github&logoColor=white)](https://github.com/RaunakBag)
+```text
+🔭 Building scalable backend applications
+☕ Deepening Java & Spring Boot expertise
+📨 Exploring event-driven architectures with Kafka
+☁️ Working with Cloud & Kubernetes
+🔧 Improving system performance & reliability
+🚀 Exploring new backend engineering opportunities
+```
 
 ---
 
-### 📈 Weekly Coding Stats (via Wakatime)
-<a href="https://wakatime.com/@RaunakBag">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RaunakBag&layout=compact" />
-</a>
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="mailto:raunakbag97@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/RaunakBag">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+📍 **Kolkata, India**
+
+📧 **[raunakbag97@gmail.com](mailto:raunakbag97@gmail.com)**
 
 ---
 
-### 🎯 GitHub Stats
+### ⚡ Developer Mindset
 
-![Metrics](https://metrics.lecoq.io/RaunakBag?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia/Kolkata)
+> **"Don't just make it work. Make it scalable, maintainable, and reliable."**
 
----
-
-### 😂 Dev Joke of the Day
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
----
-
-<footer align="center">
-  Made with ❤️ using <a href="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator">GitHub Profile Readme Generator</a>
-</footer>
+⭐ **Explore my repositories • Star what you find useful • Let's build something great**
