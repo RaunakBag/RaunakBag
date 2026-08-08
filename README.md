@@ -34,7 +34,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-# 🧊 `01` — WHO AM I?
+🧊 01 — WHO AM I?
 
 <div align="center">
 
@@ -43,31 +43,27 @@
 
 <td width="55%" valign="middle">
 
-## 👨‍💻 Backend Engineer
+👨‍💻 Backend Engineer
 
-I'm **Raunak Bag**, a **Spring Boot Developer with 5 years of experience** building scalable, high-performance backend systems and RESTful APIs.
+I'm Raunak Bag, a Spring Boot Developer with 5 years of experience building scalable, high-performance backend systems and RESTful APIs.
 
 My engineering world revolves around:
 
-**Java → Spring Boot → Microservices → Kafka → Cloud → Kubernetes**
+Java → Spring Boot → Microservices → Kafka → Cloud → Kubernetes
 
 I enjoy modernizing legacy systems, solving production problems, optimizing distributed applications, and turning business requirements into reliable software.
 
 <br/>
 
-### 🎯 Current Focus
+🎯 Current Focus
 
-`Backend Architecture`
-`Microservices`
-`Event-Driven Systems`
-`Cloud-Native Development`
-`System Design`
+Backend ArchitectureMicroservicesEvent-Driven SystemsCloud-Native DevelopmentSystem Design
 
 </td>
 
 <td width="45%" align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,kafka,docker,kubernetes,aws,azure,gcp&perline=4" width="300"/>
+<img src="https://skillicons.dev/icons?i=java,spring,kafka,docker,kubernetes,aws,azure,gcp&perline=4" width="300" alt="Java, Spring, Kafka, Docker, Kubernetes, AWS, Azure and GCP"/>
 
 <br/><br/>
 
@@ -84,13 +80,10 @@ I enjoy modernizing legacy systems, solving production problems, optimizing dist
 
 </div>
 
----
-
-# 🧬 `02` — MY ENGINEERING DNA
+🧬 02 — MY ENGINEERING DNA
 
 <div align="center">
 
-```text id="3dflow01"
                          ╔══════════════════════╗
                          ║       💡 IDEA        ║
                          ╚══════════╤═══════════╝
@@ -126,75 +119,70 @@ I enjoy modernizing legacy systems, solving production problems, optimizing dist
                      ╔════════════════════════╗
                      ║   🚀 PRODUCTION        ║
                      ╚════════════════════════╝
-```
 
 </div>
 
----
-
-# 🛠️ `03` — TECH UNIVERSE
+🛠️ 03 — TECH UNIVERSE
 
 <div align="center">
 
-### ☕ BACKEND
+☕ BACKEND
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
-
-<br/>
-
-`Java` · `Spring Boot` · `Microservices` · `REST APIs`
-
-<br/><br/>
-
-### 📨 EVENT-DRIVEN
-
-<img src="https://skillicons.dev/icons?i=kafka" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" alt="Java, Spring, Node.js and Express"/>
 
 <br/>
 
-`Apache Kafka` · `Event-Driven Architecture`
+Java · Spring Boot · Microservices · REST APIs
 
 <br/><br/>
 
-### ☁️ CLOUD
+📨 EVENT-DRIVEN
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+<img src="https://skillicons.dev/icons?i=kafka" alt="Apache Kafka"/>
 
 <br/>
 
-`AWS` · `Azure` · `GCP` · `OCI`
+Apache Kafka · Event-Driven Architecture
 
 <br/><br/>
 
-### 🐳 CONTAINERS & DEVOPS
+☁️ CLOUD
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="AWS, Azure and GCP"/>
 
 <br/>
 
-`Docker` · `Kubernetes` · `AKS` · `OCP` · `CI/CD`
+AWS · Azure · GCP · OCI
 
 <br/><br/>
 
-### 🗄️ DATA
+🐳 CONTAINERS & DEVOPS
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git" alt="Docker, Kubernetes, GitHub Actions and Git"/>
 
 <br/>
 
-`SQL` · `PL/SQL` · `MongoDB`
+Docker · Kubernetes · AKS · OCP · CI/CD
 
 <br/><br/>
 
-### 🎨 FRONTEND
+🗄️ DATA
 
-<img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="MongoDB, MySQL and PostgreSQL"/>
+
+<br/>
+
+SQL · PL/SQL · MongoDB
+
+<br/><br/>
+
+🎨 FRONTEND
+
+<img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript,html,css" alt="React, Angular, TypeScript, JavaScript, HTML and CSS"/>
 
 </div>
 
----
-
-# 🚀 `04` — THINGS I'VE BUILT & IMPROVED
+🚀 04 — THINGS I'VE BUILT & IMPROVED
 
 <div align="center">
 
@@ -204,31 +192,31 @@ I enjoy modernizing legacy systems, solving production problems, optimizing dist
 
 <td width="33%" align="center">
 
-## 🌍
+🌍
 
-### MULTI-REGION
+MULTI-REGION
 
-Spring Boot microservices supporting **multiple geographical regions** with region-specific configurations.
-
-</td>
-
-<td width="33%" align="center">
-
-## 📨
-
-### EVENT STREAMING
-
-Kafka-based event-driven systems optimized for **throughput and message-processing performance**.
+Spring Boot microservices supporting multiple geographical regions with region-specific configurations.
 
 </td>
 
 <td width="33%" align="center">
 
-## ☁️
+📨
 
-### CLOUD MODERNIZATION
+EVENT STREAMING
 
-Migration of applications from **on-premise infrastructure to Azure** using ARO & OCP.
+Kafka-based event-driven systems optimized for throughput and message-processing performance.
+
+</td>
+
+<td width="33%" align="center">
+
+☁️
+
+CLOUD MODERNIZATION
+
+Migration of applications from on-premise infrastructure to Azure using ARO & OCP.
 
 </td>
 
@@ -238,31 +226,31 @@ Migration of applications from **on-premise infrastructure to Azure** using ARO 
 
 <td width="33%" align="center">
 
-## 🔄
+🔄
 
-### SPRING BOOT 3
+SPRING BOOT 3
 
-Modernized microservices from **Spring Boot 2.x → Spring Boot 3**.
-
-</td>
-
-<td width="33%" align="center">
-
-## 🐳
-
-### CONTAINERIZATION
-
-Docker + Kubernetes based deployments for **scalability and fault tolerance**.
+Modernized microservices from Spring Boot 2.x → Spring Boot 3.
 
 </td>
 
 <td width="33%" align="center">
 
-## 🛠️
+🐳
 
-### PRODUCTION
+CONTAINERIZATION
 
-Troubleshooting, monitoring and resolving **real-world production issues**.
+Docker + Kubernetes based deployments for scalability and fault tolerance.
+
+</td>
+
+<td width="33%" align="center">
+
+🛠️
+
+PRODUCTION
+
+Troubleshooting, monitoring and resolving real-world production issues.
 
 </td>
 
@@ -272,17 +260,14 @@ Troubleshooting, monitoring and resolving **real-world production issues**.
 
 </div>
 
----
-
-# 🧠 `05` — HOW I THINK
+🧠 05 — HOW I THINK
 
 <div align="center">
 
-### SOFTWARE IS NOT JUST CODE.
+SOFTWARE IS NOT JUST CODE.
 
 <br/>
 
-```text id="mindset3d"
        SIMPLE
           ↓
     MAINTAINABLE
@@ -294,38 +279,58 @@ Troubleshooting, monitoring and resolving **real-world production issues**.
       SECURE
           ↓
       RELIABLE
-```
 
 <br/>
 
-> ### **"Don't just make it work.**
->
-> ### **Make it survive production."**
+"Don't just make it work.
+
+Make it survive production."
 
 </div>
 
----
-
-# ⚙️ `06` — MY TOOLBOX
+⚙️ 06 — MY TOOLBOX
 
 <div align="center">
 
-|       🧩 DOMAIN      | 🔧 TECHNOLOGIES                           |
-| :------------------: | :---------------------------------------- |
-|     ☕ **Backend**    | Java · Spring Boot · Microservices · REST |
-|   📨 **Messaging**   | Apache Kafka                              |
-|     ☁️ **Cloud**     | AWS · Azure · GCP · OCI                   |
-|   🐳 **Containers**  | Docker · Kubernetes · AKS · OCP           |
-|     🚀 **DevOps**    | CI/CD · Git · Deployment Automation       |
-| 📊 **Observability** | Grafana · Logging · Monitoring            |
-|   🗄️ **Database**   | SQL · PL/SQL · MongoDB                    |
-|    🎨 **Frontend**   | React · Angular · TypeScript              |
+🧩 DOMAIN
+
+🔧 TECHNOLOGIES
+
+☕ Backend
+
+Java · Spring Boot · Microservices · REST
+
+📨 Messaging
+
+Apache Kafka
+
+☁️ Cloud
+
+AWS · Azure · GCP · OCI
+
+🐳 Containers
+
+Docker · Kubernetes · AKS · OCP
+
+🚀 DevOps
+
+CI/CD · Git · Deployment Automation
+
+📊 Observability
+
+Grafana · Logging · Monitoring
+
+🗄️ Database
+
+SQL · PL/SQL · MongoDB
+
+🎨 Frontend
+
+React · Angular · TypeScript
 
 </div>
 
----
-
-# 🏆 `07` — CERTIFICATIONS
+🏆 07 — CERTIFICATIONS
 
 <div align="center">
 
@@ -339,9 +344,7 @@ Troubleshooting, monitoring and resolving **real-world production issues**.
 
 </div>
 
----
-
-# 📊 `08` — GITHUB COMMAND CENTER
+📊 08 — GITHUB COMMAND CENTER
 
 <div align="center">
 
@@ -355,11 +358,9 @@ Troubleshooting, monitoring and resolving **real-world production issues**.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaunakBag&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=RaunakBag&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF" width="70%"/>
 
 </div>
-
----
 
 📊 09 — CONTRIBUTION MATRIX
 
@@ -381,27 +382,23 @@ alt="Raunak Bag GitHub profile contribution summary"
 
 </div>
 
----
-
-# 🌐 `10` — MY DIGITAL HOME
+🌐 10 — MY DIGITAL HOME
 
 <div align="center">
 
 <a href="https://raunakbag.netlify.app/">
 
-<img src="https://img.shields.io/badge/🚀_VISIT_MY_PORTFOLIO-raunakbag.netlify.app-00E5FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-raunakbag.netlify.app-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117"/>
 
 </a>
 
 <br/><br/>
 
-### Explore my work, projects, skills & experience.
+Explore my work, projects, skills & experience.
 
-**[🌐 Open Portfolio →](https://raunakbag.netlify.app/)**
+🌐 Open Portfolio →
 
 </div>
-
----
 
 🛰️ 11 — CURRENTLY EXPLORING
 
@@ -453,23 +450,23 @@ Designing systems that are observable, resilient and ready to scale.
 
 <br/>
 
-                         ┌──────────────────┐
-                         │   🔭 EXPLORING   │
-                         └────────┬─────────┘
-                                  │
-             ┌────────────────────┼────────────────────┐
-             ▼                    ▼                    ▼
-       ☕ JAVA / SB          📨 KAFKA              ☁️ CLOUD
-             │                    │                    │
-             └────────────────────┼────────────────────┘
-                                  ▼
-                         🧩 DISTRIBUTED SYSTEMS
-                                  │
-                                  ▼
-                         🧠 SYSTEM DESIGN
-                                  │
-                                  ▼
-                       🚀 PRODUCTION READY
+                     ┌──────────────────┐
+                     │   🔭 EXPLORING   │
+                     └────────┬─────────┘
+                              │
+         ┌────────────────────┼────────────────────┐
+         ▼                    ▼                    ▼
+   ☕ JAVA / SB          📨 KAFKA              ☁️ CLOUD
+         │                    │                    │
+         └────────────────────┼────────────────────┘
+                              ▼
+                     🧩 DISTRIBUTED SYSTEMS
+                              │
+                              ▼
+                     🧠 SYSTEM DESIGN
+                              │
+                              ▼
+                   🚀 PRODUCTION READY
 
 <br/>
 
@@ -481,22 +478,16 @@ LEARN → BUILD → MEASURE → OPTIMIZE → REPEAT
 
 </div>
 
----
-
-# 🤝 `12` — CONNECT WITH ME
+🤝 12 — CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://raunakbag.netlify.app/">
-<img src="https://img.shields.io/badge/🌐_PORTFOLIO-00E5FF?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827"/>
 </a>
 
 <a href="https://github.com/RaunakBag">
-<img src="https://img.shields.io/badge/🐙_GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 <a href="mailto:raunakbag97@gmail.com">
@@ -505,15 +496,15 @@ LEARN → BUILD → MEASURE → OPTIMIZE → REPEAT
 
 <br/><br/>
 
-📍 **Kolkata, India**
+📍 Kolkata, India
 
 <br/>
 
-### `BUILD → BREAK → DEBUG → LEARN → IMPROVE`
+BUILD → BREAK → DEBUG → LEARN → IMPROVE
 
 <br/>
 
-⭐ **Thanks for visiting my profile!**
+⭐ Thanks for visiting my profile!
 
 </div>
 
