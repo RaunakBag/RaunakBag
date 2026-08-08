@@ -1,190 +1,204 @@
-# 👋 Hi, I'm Raunak Bag
+# Hey, I'm Raunak 👋
 
-### ☕ Spring Boot Developer | Java | Microservices | Kafka | Cloud
+### `Java` × `Spring Boot` × `Microservices` × `Cloud`
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=RaunakBag&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+**Backend Engineer | 5 Years Experience | Kolkata, India**
 
-> **Building reliable backend systems, one service at a time.**
+I build **scalable backend systems and production-ready microservices** with Java & Spring Boot.
 
-I'm a **Spring Boot Developer with 5 years of experience** focused on building scalable, high-performance backend systems and RESTful APIs.
-
-My core expertise includes **Java, Spring Boot, Microservices, Kafka, Cloud, Docker, Kubernetes, CI/CD, and API development**. I enjoy solving complex production problems, modernizing legacy applications, and building systems that are scalable, maintainable, and production-ready.
+Currently focused on **distributed systems, event-driven architecture, cloud-native applications, and solving the problems that only show up in production.**
 
 ---
 
-## 🚀 What I Do
+### ⚡ Engineering at a glance
 
 ```text
-Java + Spring Boot
-        │
-        ├── Microservices
-        ├── REST APIs
-        ├── Kafka / Event-Driven Architecture
-        ├── Multi-Region Applications
-        │
-        ▼
-Docker + Kubernetes
-        │
-        ▼
-AWS / Azure / GCP / OCI
-        │
-        ▼
-Scalable & Reliable Production Systems
+        ┌──────────────────────────────┐
+        │       BUSINESS PROBLEM       │
+        └──────────────┬───────────────┘
+                       ↓
+              ☕ Java / Spring Boot
+                       ↓
+             🧩 Microservices
+                       ↓
+             📨 Kafka / REST APIs
+                       ↓
+          ☁️ Cloud + Kubernetes
+                       ↓
+          🚀 Production & Monitoring
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 What I Build
 
-### Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-
-**Java • Spring Boot • Microservices • REST APIs • Kafka • Node.js**
-
-### ☁️ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-
-**AWS • Azure • GCP • OCI • Docker • Kubernetes • AKS • OCP • CI/CD**
-
-### 🗄️ Database & Development
-
-**SQL • PL/SQL • MongoDB • JavaScript • TypeScript • React • Angular**
-
-### 📊 Monitoring
-
-**Grafana • Application Logging • Monitoring • Performance Tuning**
+| Area             | Experience                                |
+| ---------------- | ----------------------------------------- |
+| ☕ Backend        | Java · Spring Boot · REST APIs            |
+| 🧩 Architecture  | Microservices · Event-Driven Systems      |
+| 📨 Messaging     | Apache Kafka                              |
+| ☁️ Cloud         | AWS · Azure · GCP · OCI                   |
+| 🐳 Containers    | Docker · Kubernetes · AKS · OCP           |
+| 🚀 Delivery      | CI/CD · Application Deployment            |
+| 📊 Observability | Logging · Monitoring · Grafana            |
+| 🗄️ Data         | SQL · PL/SQL · MongoDB                    |
+| 🎨 Frontend      | React · Angular · JavaScript · TypeScript |
 
 ---
 
-## 💼 Professional Experience
+## 🔥 Things I've Built & Improved
 
-### 🔹 Spring Boot Microservices
+### 🌍 Multi-Region Microservices
 
-* Developed and refactored **Spring Boot microservices** for scalable enterprise applications.
-* Implemented **multi-region configurations** including timezone, currency, and API endpoints.
-* Worked on **Spring Boot 2.x → Spring Boot 3** migration and modernization.
-* Upgraded deprecated APIs and modernized application dependencies.
-* Diagnosed and resolved **production issues** to improve application reliability.
+Refactored Spring Boot services to support **multiple geographical regions**, including region-specific timezone, currency, and API configurations.
 
-### 🔹 Event-Driven Architecture
+### ⚡ Event-Driven Systems
 
-* Worked with **Apache Kafka** for event-driven microservices.
-* Optimized Kafka message processing to improve throughput and reduce latency.
-* Worked on reliable communication between distributed services.
+Worked with **Kafka-based architectures**, focusing on message processing efficiency, throughput, and latency optimization.
 
-### 🔹 Cloud & Containerization
+### ☁️ Cloud Modernization
 
-* Migrated applications from **on-premise environments to Azure**.
-* Worked with **Azure Red Hat OpenShift (ARO) and OCP**.
-* Containerized applications using **Docker**.
-* Deployed and managed applications using **Kubernetes**.
-* Automated deployments using **CI/CD pipelines**.
+Migrated containerized and legacy applications from **on-premise infrastructure to Azure**, working with **ARO and OCP**.
 
-### 🔹 Backend Engineering
+### 🔄 Spring Boot Modernization
 
-* Designed RESTful APIs and backend services.
-* Built custom scheduler services for configurable batch processing.
-* Integrated external APIs for location mapping and mileage calculations.
-* Worked on application performance optimization and troubleshooting.
+Led migration of microservices from **Spring Boot 2.x → Spring Boot 3**, including dependency modernization and deprecated API upgrades.
+
+### 🐳 Containerized Applications
+
+Worked with **Docker and Kubernetes** to improve application scalability, deployment consistency, and fault tolerance.
+
+### 🛠️ Production Engineering
+
+Diagnosed production issues, analyzed application behavior, optimized services, and worked with QA/product teams to deliver reliable fixes.
 
 ---
 
-## 🧠 Engineering Approach
-
-```java
-public void buildBetterSoftware() {
-
-    while (true) {
-
-        learn();
-        design();
-        build();
-        test();
-        monitor();
-        improve();
-    }
-}
-```
-
-I believe good backend engineering is not just about writing code.
-
-It's about building systems that are:
-
-**Scalable • Maintainable • Secure • Observable • Reliable**
-
----
-
-## 🏆 Certifications
-
-* ☁️ **Oracle Cloud Infrastructure 2023 Certified Architect Associate**
-* ☁️ **Microsoft Certified: Azure Fundamentals**
-* 🤖 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
-* 🧑‍💻 **Claude Code Hackathon**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaunakBag&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakBag&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RaunakBag/RaunakBag/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-## 🌱 Currently
+## 🧠 How I Think About Software
 
 ```text
-🔭 Building scalable backend applications
-☕ Deepening Java & Spring Boot expertise
-📨 Exploring event-driven architectures with Kafka
-☁️ Working with Cloud & Kubernetes
-🔧 Improving system performance & reliability
-🚀 Exploring new backend engineering opportunities
+              ┌─────────────┐
+              │   SIMPLE    │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │ MAINTAINABLE│
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │  SCALABLE   │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │ OBSERVABLE  │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │  RELIABLE   │
+              └─────────────┘
+```
+
+> **Good backend engineering isn't just about making the code work.
+> It's about making it continue to work when the traffic, data, and complexity grow.**
+
+---
+
+## 🧰 My Current Toolkit
+
+```yaml
+backend:
+  - Java
+  - Spring Boot
+  - Microservices
+  - REST APIs
+
+messaging:
+  - Apache Kafka
+
+cloud:
+  - AWS
+  - Azure
+  - GCP
+  - OCI
+
+containers:
+  - Docker
+  - Kubernetes
+  - AKS
+  - OCP
+
+database:
+  - SQL
+  - PL/SQL
+  - MongoDB
+
+frontend:
+  - React
+  - Angular
+  - TypeScript
+
+observability:
+  - Logging
+  - Monitoring
+  - Grafana
 ```
 
 ---
 
-## 🤝 Let's Connect
+## 📜 Certifications
 
-<p align="left">
-  <a href="mailto:raunakbag97@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/RaunakBag">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+`OCI Architect Associate` · `Azure Fundamentals` · `OCI AI Foundations Associate` · `Claude Code Hackathon`
+
+---
+
+## 📈 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaunakBag&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakBag&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
 </p>
 
-📍 **Kolkata, India**
+---
 
+## 🐍 The Contribution Trail
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RaunakBag/RaunakBag/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+```text
+Spring Boot      ████████████████████  Deep
+Microservices    ███████████████████░  Advanced
+Kafka            ████████████████░░░░  Growing
+Kubernetes       ███████████████░░░░░  Growing
+Cloud            █████████████████░░░  Advanced
+System Design    ███████████████░░░░░  Exploring
+```
+
+---
+
+## 🤝 Let's Build Something
+
+I'm interested in connecting with people working on:
+
+**Java • Spring Boot • Distributed Systems • Cloud • Microservices • Backend Engineering**
+
+📍 Kolkata, India
 📧 **[raunakbag97@gmail.com](mailto:raunakbag97@gmail.com)**
 
+[![GitHub](https://img.shields.io/badge/GitHub-RaunakBag-181717?style=flat-square\&logo=github)](https://github.com/RaunakBag)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/)
+
 ---
 
-### ⚡ Developer Mindset
+<div align="center">
 
-> **"Don't just make it work. Make it scalable, maintainable, and reliable."**
+### `build → break → debug → learn → improve`
 
-⭐ **Explore my repositories • Star what you find useful • Let's build something great**
+**Thanks for stopping by. ⭐**
+
+</div>
