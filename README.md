@@ -361,11 +361,23 @@ Troubleshooting, monitoring and resolving **real-world production issues**.
 
 ---
 
-# 🐍 `09` — CONTRIBUTION MATRIX
+📊 09 — CONTRIBUTION MATRIX
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RaunakBag/RaunakBag/output/github-contribution-grid-snake.svg" width="90%"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=RaunakBag&bg_color=0D1117&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"
+width="95%"
+alt="Raunak Bag GitHub contribution activity graph"
+/>
+
+<br/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaunakBag&theme=github_dark"
+width="95%"
+alt="Raunak Bag GitHub profile contribution summary"
+/>
 
 </div>
 
