@@ -8,8 +8,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,12,20,24&text=RAUNAK%20BAG&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=JAVA%20%7C%20SPRING%20BOOT%20%7C%20MICROSERVICES%20%7C%20CLOUD&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=850&lines=☕+Spring+Boot+Developer+%7C+5+Years;⚡+Building+Scalable+Backend+Systems;🧩+Microservices+%7C+Kafka+%7C+REST+APIs;☁️+Cloud+%7C+Docker+%7C+Kubernetes;🚀+Turning+Complex+Problems+Into+Reliable+Systems"/>
 
 
