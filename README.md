@@ -1,55 +1,87 @@
-<!-- ======================= HERO ======================= -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                        HERO SECTION                            -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,14,16,20&text=RAUNAK%20BAG&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=JAVA%20%7C%20SPRING%20BOOT%20%7C%20MICROSERVICES%20%7C%20CLOUD&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,12,20,24&text=RAUNAK%20BAG&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=JAVA%20%7C%20SPRING%20BOOT%20%7C%20MICROSERVICES%20%7C%20CLOUD&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Spring+Boot+Developer+%7C+5+Years+Experience;Building+Scalable+Backend+Systems;Microservices+%7C+Kafka+%7C+Kubernetes;Cloud+%7C+AWS+%7C+Azure+%7C+GCP+%7C+OCI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=850&lines=☕+Spring+Boot+Developer+%7C+5+Years;⚡+Building+Scalable+Backend+Systems;🧩+Microservices+%7C+Kafka+%7C+REST+APIs;☁️+Cloud+%7C+Docker+%7C+Kubernetes;🚀+Turning+Complex+Problems+Into+Reliable+Systems"/>
 
 <br/><br/>
 
-<a href="mailto:raunakbag97@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00D9FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://raunakbag.netlify.app/">
+<img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-00E5FF?style=for-the-badge&labelColor=0D1117"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="https://github.com/RaunakBag">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🐙%20GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=FFFFFF"/>
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+ 
+
+<a href="mailto:raunakbag97@gmail.com">
+<img src="https://img.shields.io/badge/📧%20CONTACT-FF4B4B?style=for-the-badge&labelColor=0D1117"/>
 </a>
 
 </div>
 
 ---
 
-# 🧊 WHO AM I?
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         PROFILE                                -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+# 🧊 `01` — WHO AM I?
 
 <div align="center">
 
 <table>
 <tr>
 
-<td width="55%" valign="top">
+<td width="55%" valign="middle">
 
-### 👨‍💻 Backend Engineer
+## 👨‍💻 Backend Engineer
 
-I'm a **Spring Boot Developer with 5 years of experience** focused on building scalable, high-performance backend systems and REST APIs.
+I'm **Raunak Bag**, a **Spring Boot Developer with 5 years of experience** building scalable, high-performance backend systems and RESTful APIs.
 
-My primary world is:
+My engineering world revolves around:
 
 **Java → Spring Boot → Microservices → Kafka → Cloud → Kubernetes**
 
-I enjoy turning complex requirements into **clean, maintainable and production-ready systems**.
+I enjoy modernizing legacy systems, solving production problems, optimizing distributed applications, and turning business requirements into reliable software.
+
+<br/>
+
+### 🎯 Current Focus
+
+`Backend Architecture`
+`Microservices`
+`Event-Driven Systems`
+`Cloud-Native Development`
+`System Design`
 
 </td>
 
 <td width="45%" align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,kafka,docker,kubernetes,aws,azure,gcp,mongodb,postgres,react&perline=4" />
+<img src="https://skillicons.dev/icons?i=java,spring,kafka,docker,kubernetes,aws,azure,gcp&perline=4" width="300"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/5%2B%20YEARS-ENGINEERING-00E5FF?style=for-the-badge&labelColor=111827"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/BACKEND-FIRST-8B5CF6?style=for-the-badge&labelColor=111827"/>
 
 </td>
 
@@ -60,7 +92,53 @@ I enjoy turning complex requirements into **clean, maintainable and production-r
 
 ---
 
-# ⚡ MY ENGINEERING STACK
+# 🧬 `02` — MY ENGINEERING DNA
+
+<div align="center">
+
+```text id="3dflow01"
+                         ╔══════════════════════╗
+                         ║       💡 IDEA        ║
+                         ╚══════════╤═══════════╝
+                                    │
+                                    ▼
+                    ╔══════════════════════════════╗
+                    ║       ☕ JAVA + SPRING        ║
+                    ╚══════════════╤═══════════════╝
+                                   │
+                                   ▼
+              ╔════════════════════════════════════════╗
+              ║          🧩 MICROSERVICES              ║
+              ╚═══════════════════╤════════════════════╝
+                                  │
+                    ┌─────────────┴─────────────┐
+                    ▼                           ▼
+             ╔══════════════╗             ╔══════════════╗
+             ║   🔗 REST    ║             ║   📨 KAFKA   ║
+             ╚══════╤═══════╝             ╚══════╤═══════╝
+                    │                            │
+                    └─────────────┬──────────────┘
+                                  ▼
+                     ╔════════════════════════╗
+                     ║   🐳 DOCKER + K8S       ║
+                     ╚════════════╤═══════════╝
+                                  │
+                                  ▼
+                     ╔════════════════════════╗
+                     ║ ☁️ CLOUD INFRASTRUCTURE ║
+                     ╚════════════╤═══════════╝
+                                  │
+                                  ▼
+                     ╔════════════════════════╗
+                     ║   🚀 PRODUCTION        ║
+                     ╚════════════════════════╝
+```
+
+</div>
+
+---
+
+# 🛠️ `03` — TECH UNIVERSE
 
 <div align="center">
 
@@ -68,11 +146,19 @@ I enjoy turning complex requirements into **clean, maintainable and production-r
 
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
 
+<br/>
+
+`Java` · `Spring Boot` · `Microservices` · `REST APIs`
+
 <br/><br/>
 
-### 📨 EVENT DRIVEN
+### 📨 EVENT-DRIVEN
 
 <img src="https://skillicons.dev/icons?i=kafka" />
+
+<br/>
+
+`Apache Kafka` · `Event-Driven Architecture`
 
 <br/><br/>
 
@@ -80,17 +166,29 @@ I enjoy turning complex requirements into **clean, maintainable and production-r
 
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
 
+<br/>
+
+`AWS` · `Azure` · `GCP` · `OCI`
+
 <br/><br/>
 
-### 🐳 DEVOPS
+### 🐳 CONTAINERS & DEVOPS
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git" />
 
+<br/>
+
+`Docker` · `Kubernetes` · `AKS` · `OCP` · `CI/CD`
+
 <br/><br/>
 
-### 🗄️ DATABASE
+### 🗄️ DATA
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+
+<br/>
+
+`SQL` · `PL/SQL` · `MongoDB`
 
 <br/><br/>
 
@@ -102,109 +200,78 @@ I enjoy turning complex requirements into **clean, maintainable and production-r
 
 ---
 
-# 🧠 HOW I BUILD
-
-<div align="center">
-
-```text
-                         ┌─────────────────┐
-                         │   💡 PROBLEM    │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                     ┌────────────────────────┐
-                     │ ☕ JAVA + SPRING BOOT  │
-                     └────────────┬───────────┘
-                                  │
-                                  ▼
-                    ┌─────────────────────────┐
-                    │ 🧩 MICROSERVICES        │
-                    └────────────┬────────────┘
-                                 │
-                     ┌───────────┴───────────┐
-                     ▼                       ▼
-               🔗 REST APIs             📨 KAFKA
-                     │                       │
-                     └───────────┬───────────┘
-                                 ▼
-                       ☁️ CLOUD + K8S
-                                 │
-                                 ▼
-                     🚀 PRODUCTION SYSTEM
-```
-
-</div>
-
----
-
-# 🔥 WHAT I'VE WORKED ON
+# 🚀 `04` — THINGS I'VE BUILT & IMPROVED
 
 <div align="center">
 
 <table>
 
 <tr>
-<td align="center" width="33%">
 
-### 🌍
+<td width="33%" align="center">
 
-### Multi-Region
+## 🌍
 
-Spring Boot microservices supporting geographical configurations such as **timezone, currency and API endpoints**.
+### MULTI-REGION
 
-</td>
-
-<td align="center" width="33%">
-
-### 📨
-
-### Kafka
-
-Event-driven architectures with focus on **message processing, throughput and latency optimization**.
+Spring Boot microservices supporting **multiple geographical regions** with region-specific configurations.
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-### ☁️
+## 📨
 
-### Cloud Migration
+### EVENT STREAMING
 
-Modernized applications by migrating workloads from **on-premise infrastructure to Azure**.
+Kafka-based event-driven systems optimized for **throughput and message-processing performance**.
 
 </td>
+
+<td width="33%" align="center">
+
+## ☁️
+
+### CLOUD MODERNIZATION
+
+Migration of applications from **on-premise infrastructure to Azure** using ARO & OCP.
+
+</td>
+
 </tr>
 
 <tr>
-<td align="center">
 
-### 🔄
+<td width="33%" align="center">
 
-### Spring Boot 3
+## 🔄
 
-Microservices migration from **Spring Boot 2.x → Spring Boot 3** with dependency modernization.
+### SPRING BOOT 3
 
-</td>
-
-<td align="center">
-
-### 🐳
-
-### Kubernetes
-
-Containerized applications using **Docker & Kubernetes** for scalable deployments.
+Modernized microservices from **Spring Boot 2.x → Spring Boot 3**.
 
 </td>
 
-<td align="center">
+<td width="33%" align="center">
 
-### 🛠️
+## 🐳
 
-### Production
+### CONTAINERIZATION
 
-Debugging, monitoring and resolving **real-world production issues**.
+Docker + Kubernetes based deployments for **scalability and fault tolerance**.
 
 </td>
+
+<td width="33%" align="center">
+
+## 🛠️
+
+### PRODUCTION
+
+Troubleshooting, monitoring and resolving **real-world production issues**.
+
+</td>
+
 </tr>
 
 </table>
@@ -213,51 +280,94 @@ Debugging, monitoring and resolving **real-world production issues**.
 
 ---
 
-# 🧰 TECH RADAR
+# 🧠 `05` — HOW I THINK
 
 <div align="center">
 
-|      🧊 Area      | ⚙️ Technologies                           |
-| :---------------: | :---------------------------------------- |
-|   ☕ **Backend**   | Java · Spring Boot · Microservices · REST |
-|  📨 **Messaging** | Apache Kafka                              |
-|    ☁️ **Cloud**   | AWS · Azure · GCP · OCI                   |
-| 🐳 **Containers** | Docker · Kubernetes · AKS · OCP           |
-|   🚀 **DevOps**   | CI/CD · Git · Deployment Automation       |
-| 📊 **Monitoring** | Grafana · Logging · Monitoring            |
-|  🗄️ **Database** | SQL · PL/SQL · MongoDB                    |
-|  🎨 **Frontend**  | React · Angular · TypeScript              |
+### SOFTWARE IS NOT JUST CODE.
+
+<br/>
+
+```text id="mindset3d"
+       SIMPLE
+          ↓
+    MAINTAINABLE
+          ↓
+      SCALABLE
+          ↓
+     OBSERVABLE
+          ↓
+      SECURE
+          ↓
+      RELIABLE
+```
+
+<br/>
+
+> ### **"Don't just make it work.**
+>
+> ### **Make it survive production."**
 
 </div>
 
 ---
 
-# 🏆 CERTIFICATIONS
+# ⚙️ `06` — MY TOOLBOX
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/☁️_OCI-Architect_Associate-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/☁️_Azure-Fundamentals-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🤖_OCI-AI_Foundations-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💻_Claude-Code_Hackathon-black?style=for-the-badge"/>
+|       🧩 DOMAIN      | 🔧 TECHNOLOGIES                           |
+| :------------------: | :---------------------------------------- |
+|     ☕ **Backend**    | Java · Spring Boot · Microservices · REST |
+|   📨 **Messaging**   | Apache Kafka                              |
+|     ☁️ **Cloud**     | AWS · Azure · GCP · OCI                   |
+|   🐳 **Containers**  | Docker · Kubernetes · AKS · OCP           |
+|     🚀 **DevOps**    | CI/CD · Git · Deployment Automation       |
+| 📊 **Observability** | Grafana · Logging · Monitoring            |
+|   🗄️ **Database**   | SQL · PL/SQL · MongoDB                    |
+|    🎨 **Frontend**   | React · Angular · TypeScript              |
 
 </div>
 
 ---
 
-# 📊 GITHUB UNIVERSE
+# 🏆 `07` — CERTIFICATIONS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RaunakBag&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="180"/>
+<img src="https://img.shields.io/badge/☁️_OCI-ARCHITECT_ASSOCIATE-FF9900?style=for-the-badge&labelColor=111827"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakBag&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="180"/>
+<img src="https://img.shields.io/badge/☁️_AZURE-FUNDAMENTALS-0078D4?style=for-the-badge&labelColor=111827"/>
+
+<img src="https://img.shields.io/badge/🤖_OCI-AI_FOUNDATIONS-8B5CF6?style=for-the-badge&labelColor=111827"/>
+
+<img src="https://img.shields.io/badge/💻_CLAUDE-CODE_HACKATHON-FFFFFF?style=for-the-badge&labelColor=111827"/>
 
 </div>
 
 ---
 
-# 🐍 CONTRIBUTION MATRIX
+# 📊 `08` — GITHUB COMMAND CENTER
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RaunakBag&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=8B5CF6&text_color=FFFFFF" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakBag&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" height="180"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaunakBag&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF" width="70%"/>
+
+</div>
+
+---
+
+# 🐍 `09` — CONTRIBUTION MATRIX
 
 <div align="center">
 
@@ -267,19 +377,39 @@ Debugging, monitoring and resolving **real-world production issues**.
 
 ---
 
-# 🎯 CURRENTLY BUILDING
+# 🌐 `10` — MY DIGITAL HOME
 
 <div align="center">
 
-```text
+<a href="https://raunakbag.netlify.app/">
+
+<img src="https://img.shields.io/badge/🚀_VISIT_MY_PORTFOLIO-raunakbag.netlify.app-00E5FF?style=for-the-badge&labelColor=0D1117"/>
+
+</a>
+
+<br/><br/>
+
+### Explore my work, projects, skills & experience.
+
+**[🌐 Open Portfolio →](https://raunakbag.netlify.app/)**
+
+</div>
+
+---
+
+# 🎯 `11` — CURRENTLY EXPLORING
+
+<div align="center">
+
+```text id="radar3d"
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
-║   ☕  Java & Spring Boot        ████████████████░░   ║
-║   🧩  Microservices             █████████████████░   ║
-║   📨  Kafka                     ███████████████░░░   ║
-║   ☁️  Cloud                     ████████████████░░   ║
-║   🐳  Kubernetes                ███████████████░░░   ║
-║   🧠  System Design             █████████████░░░░░   ║
+║   ☕ Java / Spring Boot      ████████████████████   ║
+║   🧩 Microservices           ███████████████████░   ║
+║   📨 Kafka                   █████████████████░░   ║
+║   ☁️ Cloud                   ██████████████████░   ║
+║   🐳 Kubernetes              ████████████████░░░   ║
+║   🧠 System Design           ██████████████░░░░░   ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
@@ -288,42 +418,24 @@ Debugging, monitoring and resolving **real-world production issues**.
 
 ---
 
-# 💭 ENGINEERING MINDSET
+# 🤝 `12` — CONNECT WITH ME
 
 <div align="center">
 
-### **BUILD → BREAK → DEBUG → LEARN → IMPROVE**
-
-<br/>
-
-> ### 🚀 "Make it work."
->
-> ### ⚡ "Make it fast."
->
-> ### 🧊 "Make it scalable."
->
-> ### 🛡️ "Make it reliable."
-
-</div>
-
----
-
-# 🤝 LET'S CONNECT
-
-<div align="center">
-
-<a href="mailto:raunakbag97@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email-raunakbag97%40gmail.com-111827?style=for-the-badge"/>
+<a href="https://raunakbag.netlify.app/">
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-00E5FF?style=for-the-badge&labelColor=111827"/>
 </a>
 
-<br/><br/>
-
 <a href="https://github.com/RaunakBag">
-<img src="https://img.shields.io/badge/🐙_GitHub-RaunakBag-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/🐙_GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:raunakbag97@gmail.com">
+<img src="https://img.shields.io/badge/📧_EMAIL-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -332,8 +444,14 @@ Debugging, monitoring and resolving **real-world production issues**.
 
 <br/>
 
-### ⭐ Thanks for visiting my profile!
+### `BUILD → BREAK → DEBUG → LEARN → IMPROVE`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,14,16,20" width="100%"/>
+<br/>
+
+⭐ **Thanks for visiting my profile!**
 
 </div>
+
+<!-- ======================= FOOTER ======================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=6,12,20,24" width="100%"/>
