@@ -403,22 +403,81 @@ alt="Raunak Bag GitHub profile contribution summary"
 
 ---
 
-# 🎯 `11` — CURRENTLY EXPLORING
+🛰️ 11 — CURRENTLY EXPLORING
 
 <div align="center">
 
-```text id="radar3d"
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   ☕ Java / Spring Boot      ████████████████████   ║
-║   🧩 Microservices           ███████████████████░   ║
-║   📨 Kafka                   █████████████████░░   ║
-║   ☁️ Cloud                   ██████████████████░   ║
-║   🐳 Kubernetes              ████████████████░░░   ║
-║   🧠 System Design           ██████████████░░░░░   ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+🚀 NEXT DESTINATION: DEEPER BACKEND ENGINEERING
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+☕ CORE
+
+<img src="https://skillicons.dev/icons?i=java,spring" width="100" alt="Java and Spring"/>
+
+Java + Spring Boot
+
+Building cleaner APIs, stronger services and production-ready backend systems.
+
+</td>
+
+<td align="center" width="33%">
+
+🧩 ARCHITECTURE
+
+<img src="https://skillicons.dev/icons?i=kafka,kubernetes" width="100" alt="Kafka and Kubernetes"/>
+
+Distributed Systems
+
+Going deeper into Microservices, Kafka and Kubernetes.
+
+</td>
+
+<td align="center" width="33%">
+
+☁️ SCALE
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" width="150" alt="Cloud platforms"/>
+
+Cloud Engineering
+
+Designing systems that are observable, resilient and ready to scale.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+                         ┌──────────────────┐
+                         │   🔭 EXPLORING   │
+                         └────────┬─────────┘
+                                  │
+             ┌────────────────────┼────────────────────┐
+             ▼                    ▼                    ▼
+       ☕ JAVA / SB          📨 KAFKA              ☁️ CLOUD
+             │                    │                    │
+             └────────────────────┼────────────────────┘
+                                  ▼
+                         🧩 DISTRIBUTED SYSTEMS
+                                  │
+                                  ▼
+                         🧠 SYSTEM DESIGN
+                                  │
+                                  ▼
+                       🚀 PRODUCTION READY
+
+<br/>
+
+LEARN → BUILD → MEASURE → OPTIMIZE → REPEAT
+
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-00E5FF?style=for-the-badge&labelColor=0D1117" alt="Always learning"/>
+<img src="https://img.shields.io/badge/MODE-BUILDING-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Building mode"/>
+<img src="https://img.shields.io/badge/FOCUS-BACKEND-22C55E?style=for-the-badge&labelColor=0D1117" alt="Backend focus"/>
 
 </div>
 
