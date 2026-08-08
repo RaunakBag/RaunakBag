@@ -12,7 +12,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=850&lines=☕+Spring+Boot+Developer+%7C+5+Years;⚡+Building+Scalable+Backend+Systems;🧩+Microservices+%7C+Kafka+%7C+REST+APIs;☁️+Cloud+%7C+Docker+%7C+Kubernetes;🚀+Turning+Complex+Problems+Into+Reliable+Systems"/>
 
-<br/><br/>
 
 <a href="https://raunakbag.netlify.app/">
 <img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-00E5FF?style=for-the-badge&labelColor=0D1117"/>
